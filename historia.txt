@@ -1,4 +1,5 @@
 esta es la historia de daniel en git
 123
 hoy estamos iniciando en este mundo
+master 1
 28 marzo hoy hablaremos de vida
